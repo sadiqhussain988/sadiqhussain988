@@ -1,7 +1,7 @@
 <div align="center">
 
-# Hi, I'm Farhan Ahmad
-## Frontend Developer | React Specialist
+# Hi, I'm Sadiq Hussain
+## Full Stack Web Developer || Software Engineer
 
 </div>
 

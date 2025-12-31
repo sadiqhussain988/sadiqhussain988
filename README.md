@@ -12,7 +12,7 @@
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge)](https://github.com/farhan493495)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge)](https://github.com/sadiqhussain988)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/farhan-ahmad945994493)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF4088?style=for-the-badge)](https://farhan-ahmad.vercel.app/)
 [![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge)](https://vercel.com/farhan-ahmeds-projects-6dc96427)
@@ -89,7 +89,7 @@ Passionate Frontend Developer with expertise in creating beautiful, responsive, 
 ## Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=farhan493495&theme=react-dark&hide_border=true&area=true&custom_title=Frontend%20Contributions&bg_color=0D1117&color=58A6FF&line=58A6FF&point=C9D1D9" alt="Contribution Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sadiqhussain988&theme=react-dark&hide_border=true&area=true&custom_title=Frontend%20Contributions&bg_color=0D1117&color=58A6FF&line=58A6FF&point=C9D1D9" alt="Contribution Graph" width="100%" />
 </p>
 
 ---

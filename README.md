@@ -24,7 +24,7 @@ Currently contributing to innovative projects at **Codes Thinker** while continu
 
 | Project | Description | Tech Stack | Live Demo |
 | --- | --- | --- | --- |
-| **My Portfolio** | Personal portfolio website showcasing my skills, experience, and projects | React, Tailwind, JavaScript | [Live Demo](https://farhan-ahmad.vercel.app/) |
+| **My Portfolio** | Personal portfolio website showcasing my skills, experience, and projects | React, Tailwind, JavaScript | [Live Demo](https://portfolio-website-517h.vercel.app/) |
 | **Akoya Web App** | Modern responsive web application with cutting-edge technologies | React, JavaScript, Tailwind | [Live Demo](https://fa-akoya.vercel.app/) |
 | **Empower Zone Website** | Community platform with resources and interactive learning modules | React, Tailwind, JavaScript | [Live Demo](https://empower-zone.vercel.app/) |
 | **Admin Dashboard** | Enterprise-level analytics panel with real-time data visualization and user management | React, Recharts, Tailwind | [Live Demo](https://fa-dashboard.vercel.app/) |

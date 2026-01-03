@@ -14,7 +14,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge)](https://github.com/sadiqhussain988)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/farhan-ahmad945994493)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF4088?style=for-the-badge)](https://farhan-ahmad.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF4088?style=for-the-badge)]([https://farhan-ahmad.vercel.app](https://portfolio-website-517h.vercel.app/)/)
 [![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge)](https://vercel.com/farhan-ahmeds-projects-6dc96427)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge)](mailto:fa6768243@gmail.com)
 

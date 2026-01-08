@@ -3,10 +3,10 @@
 # 👋 Hi, I'm Sadiq Hussain
 ### Full Stack Web Developer | Software Engineer | Frontend Enthusiast
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farhan-ahmad945994493)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sadiq-hussain-9a85a2334/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sadiqhussain988)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF4088?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolio-website-517h.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fa6768243@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF4088?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sadiqhussain.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sa7434542@gmail.com)
 
 </div>
 
@@ -24,7 +24,7 @@ Currently contributing to innovative projects at **Codes Thinker** while continu
 
 | Project | Description | Tech Stack | Live Demo |
 | --- | --- | --- | --- |
-| **My Portfolio** | Personal portfolio website showcasing my skills, experience, and projects | React, Tailwind, JavaScript | [Live Demo](https://portfolio-website-517h.vercel.app/) |
+| **My Portfolio** | Personal portfolio website showcasing my skills, experience, and projects | React, Tailwind, JavaScript | [Live Demo](https://sadiqhussain.vercel.app/) |
 | **Akoya Web App** | Modern responsive web application with cutting-edge technologies | React, JavaScript, Tailwind | [Live Demo](https://fa-akoya.vercel.app/) |
 | **Empower Zone Website** | Community platform with resources and interactive learning modules | React, Tailwind, JavaScript | [Live Demo](https://empower-zone.vercel.app/) |
 | **Admin Dashboard** | Enterprise-level analytics panel with real-time data visualization and user management | React, Recharts, Tailwind | [Live Demo](https://fa-dashboard.vercel.app/) |
@@ -32,7 +32,7 @@ Currently contributing to innovative projects at **Codes Thinker** while continu
 | **AI Chatbot** | Intelligent chatbot with NLP, real-time responses, and conversation history | React, AI APIs, Tailwind | [Live Demo](https://fa-ai-chatbot.vercel.app/) |
 | **Weather Application** | Real-time weather forecasting with location detection and visualizations | React, Geolocation, Tailwind | [Live Demo](https://fa-weather-app.vercel.app/) |
 
-> 🔗 More projects available in my [Portfolio](https://portfolio-website-517h.vercel.app/)
+> 🔗 More projects available in my [Portfolio](https://sadiqhussain.vercel.app/)
 
 ---
 
@@ -84,10 +84,10 @@ Currently contributing to innovative projects at **Codes Thinker** while continu
 
 ## 💬 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farhan-ahmad945994493)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sadiq-hussain-9a85a2334/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sadiqhussain988)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF4088?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolio-website-517h.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fa6768243@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF4088?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sadiqhussain.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sa7434542@gmail.com)
 
 ---
 

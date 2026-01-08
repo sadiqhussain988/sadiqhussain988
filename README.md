@@ -1,94 +1,74 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Sadiq%20Hussain&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Engineer%20%7C%20UI/UX%20Specialist&descAlignY=55&descSize=25" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Sadiq%20Hussain&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Web%20Engineer&descAlignY=55&descSize=25" width="100%" />
+
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;React+Expert+%26+UI+Architect;Software+Engineering+Enthusiast;Building+Scalable+Digital+Solutions" alt="Typing SVG" />
+  </a>
 
   <p align="center">
-    <a href="https://sadiqhussain.vercel.app/"><b>Portfolio</b></a> •
-    <a href="https://www.linkedin.com/in/sadiq-hussain-9a85a2334/"><b>LinkedIn</b></a> •
-    <a href="mailto:sa7434542@gmail.com"><b>Contact</b></a> •
-    <a href="#projects"><b>Projects</b></a>
+    <a href="https://sadiqhussain.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FF4088?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+    <a href="https://www.linkedin.com/in/sadiq-hussain-9a85a2334/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="https://github.com/sadiqhussain988"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+    <a href="mailto:sa7434542@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   </p>
 </div>
 
 ---
 
-## ⚡ Quick Byte
-> "I don't just build websites; I engineer seamless digital experiences where performance meets aesthetics."
+## 🚀 About Me
+I am a results-oriented **Software Engineer** specializing in the **Modern Web Ecosystem**. With a deep focus on **Frontend Excellence**, I bridge the gap between sophisticated design and robust engineering. 
 
-* 🏢 Currently: **Frontend Developer** at **Codes Thinker**.
-* 🚀 Scaling: High-performance React applications and AI-driven UI.
-* 🛠️ Architecting: Modular design systems and scalable state management.
-* 📍 Based in: **Pakistan** (Available for Remote Global Collaboration).
+* 🔭 **Current Focus:** Crafting high-performance enterprise solutions at **Codes Thinker**.
+* ⚡ **Core Philosophy:** Writing clean, scalable code that prioritizes user experience and performance.
+* 🌱 **Learning Path:** Deep diving into **Next.js 14 Server Components** and **Cloud Native Architectures**.
+* 💬 **Ask me about:** React architecture, Framer Motion animations, and CSS-in-JS patterns.
 
 ---
 
-## 🏗️ My Specialized Tech Stack
+## 🛠️ Technical Arsenal
 
-<div align="center">
+### 💻 Frontend & UI Development
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,sass,styledcomponents,framer,mui" />
 
-| **Frontend Core** | **Backend & Database** | **Design & Motion** |
+### ⚙️ Backend & Cloud Services
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,appwrite,postman" />
+
+### 🔧 DevTools & Workflow
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vite,vercel,figma,docker" />
+
+---
+
+## 🏗️ Engineering Highlights
+
+| Project | Description & Impact | Tech Stack |
 | :--- | :--- | :--- |
-| <img src="https://skillicons.dev/icons?i=react,nextjs,ts,redux,html,css" /> | <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,postman" /> | <img src="https://skillicons.dev/icons?i=tailwind,sass,figma,framer,mui" /> |
-
-| **Tools & DevOps** | **Soft Skills** |
-| :--- | :--- |
-| <img src="https://skillicons.dev/icons?i=git,github,vscode,vite,vercel,docker" /> | `Clean Architecture` `Agile/Scrum` `Team Leadership` `Problem Solving` |
-
-</div>
+| **💎 Akoya Web** | High-end UI with buttery smooth **Framer Motion** transitions and SEO optimization. | `React` `Tailwind` `Framer` |
+| **🤖 AI Chatbot** | Real-time NLP integration with **streaming API** responses and persistent state. | `Next.js` `OpenAI` `Node` |
+| **📊 Admin Panel** | Complex data management with **real-time charting (Recharts)** and RBAC security. | `React` `Recharts` `Context API` |
+| **☁️ Weather App** | Geolocation-based forecasting with **dynamic SVG** background updates. | `JS` `Weather API` `Tailwind` |
+| **🎗️ Charity App** | Donation platform featuring secure payment simulations and campaign tracking. | `React` `Context API` `MUI` |
 
 ---
 
-## 🚀 Impactful Projects
-
-### 💎 [Akoya Web App](https://fa-akoya.vercel.app/)
-* **Role:** Lead Frontend Architect
-* **Highlight:** Developed a high-conversion landing page with **60fps animations** using Framer Motion. Optimized SEO and accessibility (A11y) resulting in a 30% increase in user retention.
-* **Stack:** React, Tailwind CSS, Framer Motion.
-
-### 🤖 [AI Chatbot Ecosystem](https://fa-ai-chatbot.vercel.app/)
-* **Role:** Full Stack Developer
-* **Highlight:** Integrated OpenAI’s API with a custom-built **streaming response UI** and persistent chat history via LocalStorage/Firebase. 
-* **Stack:** Next.js, OpenAI SDK, Tailwind, Node.js.
-
-### 📊 [Enterprise Admin Dashboard](https://fa-dashboard.vercel.app/)
-* **Role:** Frontend Engineer
-* **Highlight:** Built a data-heavy dashboard handling **real-time analytics** with Recharts. Implemented role-based access control (RBAC) and dark/light mode system.
-* **Stack:** React, Recharts, Context API, Tailwind.
-
----
-
-## 📈 Engineering Metrics
+## 📊 Analytics & Impact
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sadiqhussain988&show_icons=true&theme=vision-friendly-dark&rank_icon=github&border_radius=10" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadiqhussain988&layout=compact&theme=vision-friendly-dark&border_radius=10" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sadiqhussain988&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true&include_all_commits=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadiqhussain988&layout=compact&theme=tokyonight&border_radius=10&hide_border=true" width="45%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sadiqhussain988&theme=react-dark&area=true&hide_border=true&custom_title=Fullstack%20Development%20Contributions" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sadiqhussain988&theme=react-dark&area=true&hide_border=true&custom_title=Engineering%20Contribution%20Graph" width="100%" />
 </p>
 
 ---
 
-## 🛠️ My Workflow
-1.  **Analyze:** Understanding the "Why" before the "How."
-2.  **Design:** High-fidelity prototyping in Figma.
-3.  **Develop:** Writing **DRY**, maintainable, and typed code.
-4.  **Optimize:** Ensuring < 2s load times and 100 Lighthouse scores.
-5.  **Deploy:** CI/CD pipelines via Vercel or GitHub Actions.
-
----
-
-## 🤝 Let's Build Something Great
-I am currently looking for **challenging Frontend/Full-Stack opportunities** or open-source collaborations. If you have a project that needs a mix of technical precision and creative flair, let's talk.
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sadiq-hussain-9a85a2334/)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sa7434542@gmail.com)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
-
----
-
-<img src="https://raw.githubusercontent.com/mshick/mshick/master/lofi.gif" width="100px" /><br/>
-<sub>**Last Updated:** January 2026</sub>
-</div>
+## 🧪 Development DNA
+```javascript
+const sadiqHussain = {
+  pronouns: "He" | "Him",
+  code: ["Javascript", "Typescript", "React", "Node.js"],
+  tools: ["Git", "Docker", "Vercel", "Tailwind"],
+  architecture: ["Clean Code", "Modular Design", "Performance First"],
+  challenge: "Turning complex problems into elegant digital experiences"
+};

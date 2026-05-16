@@ -86,17 +86,17 @@ Accomplished **Senior Full Stack Developer** and **AWS Architect** specializing 
 ### 🌐 SadiqTech Platform
 <p>Architected high-performance personal ecosystem showcasing enterprise grade modules[cite: 1].</p>
 <p><code>Next.js</code> <code>AWS</code> <code>GSAP</code></p>
-<a href="https://www.sadiqtech.dev/">
+<a href="https://www.sadiqtech.dev">
   <img src="https://img.shields.io/badge/LIVE_DEMO-2D7DDB?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
 </td>
 <td width="50%">
 
-### 💬 AI Enterprise Chatbot
-<p>Real-time conversational AI with context-aware memory and sub-second latency[cite: 1].</p>
+### 💬 ClinicCare Book Your
+<p>At ClinicCare, our mission is to make healthcare simple and reliable for every patient. We bridge the gap between you and world-class medical professionals through technology built on trust and efficiency.[cite: 1].</p>
 <p><code>Next.js 14</code> <code>OpenAI</code> <code>Node.js</code></p>
-<a href="https://fa-ai-chatbot.vercel.app/">
+<a href="https://appointment-book-frontend-teal.vercel.app">
   <img src="https://img.shields.io/badge/LIVE_DEMO-06B6D4?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
@@ -106,10 +106,10 @@ Accomplished **Senior Full Stack Developer** and **AWS Architect** specializing 
 <tr>
 <td width="50%">
 
-### 📊 Analytics Engine
-<p>Complex data visualization dashboard with real-time tracking and role-based access[cite: 1].</p>
+### 📊 Zoo Management Platform
+<p> CityZoo, we are dedicated to creating a space where people of all ages can connect with nature and wildlife. Our mission is to provide not only entertainment but also education and awareness about animal care and conservation CityZoo, we are dedicated to creating a space where people of all ages can connect with nature and wildlife. Our mission is to provide not only entertainment but also education and awareness about animal care and conservation[cite: 1].</p>
 <p><code>React</code> <code>Recharts</code> <code>Tailwind</code></p>
-<a href="https://fa-dashboard.vercel.app/">
+<a href="https://zoo-drab.vercel.app/">
   <img src="https://img.shields.io/badge/LIVE_DEMO-10B981?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
@@ -119,7 +119,7 @@ Accomplished **Senior Full Stack Developer** and **AWS Architect** specializing 
 ### 🛍️ Akoya Luxury
 <p>Modern luxury e-commerce with advanced bento-grid layouts and interaction design[cite: 1].</p>
 <p><code>React</code> <code>Framer Motion</code> <code>Tailwind</code></p>
-<a href="https://fa-akoya.vercel.app/">
+<a href="https://akoyaluxureylaundry.com/">
   <img src="https://img.shields.io/badge/LIVE_DEMO-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 

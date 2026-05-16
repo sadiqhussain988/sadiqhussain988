@@ -1,93 +1,185 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Sadiq%20Hussain&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Web%20Engineer&descAlignY=55&descSize=25" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Sadiq%20Hussain&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Senior%20Full%20Stack%20Engineer%20%7C%20+92%20320%203036988%20%7C%20sadiqtech.dev&descAlignY=55&descSize=20" width="100%" />
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&weight=600&pause=1000&color=2D7DDB&center=true&vCenter=true&width=680&lines=Full+Stack+Software+Engineer;React+Specialist+%26+UI+Architect;Enterprise+Application+Development;Building+Scalable+Web+Platforms" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&weight=600&pause=1000&color=2D7DDB&center=true&vCenter=true&width=680&lines=Senior+Full+Stack+Developer;AWS+Certified+Architect;MERN+Stack+Specialist;Engineering+Scalable+Solutions" alt="Typing SVG" />
   </a>
 
   <p align="center">
-    <a href="https://sadiqhussain.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+    <a href="https://www.sadiqtech.dev/"><img src="https://img.shields.io/badge/Website-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+    <a href="https://wa.me/923203036988"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
     <a href="https://www.linkedin.com/in/sadiq-hussain-9a85a2334/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
     <a href="https://github.com/sadiqhussain988"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-    <a href="mailto:sa7434542@gmail.com"><img src="https://img.shields.io/badge/Email-2D7DDB?style=for-the-badge&logo=mail.ru&logoColor=white" /></a>
   </p>
 </div>
 
----
+<br/>
 
-## 📋 Professional Profile
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-Experienced **Full Stack Software Engineer** specializing in modern web application development with a strong focus on **React ecosystems** and **scalable architecture**. Proven expertise in transforming complex business requirements into performant, maintainable digital solutions.
+<br/>
 
-* 🏢 **Current Role:** Software Engineer at **Codes Thinker**, developing enterprise-grade applications
-* 🎯 **Technical Focus:** Frontend architecture, performance optimization, and scalable system design
-* 📈 **Value Proposition:** Delivering robust solutions that balance technical excellence with business objectives
-* 🔄 **Continuous Learning:** Advancing expertise in **Next.js 14**, **micro-frontends**, and **cloud-native patterns**
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> &nbsp;About Me
 
----
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
 
-## 🛠️ Technical Competencies
+Accomplished **Senior Full Stack Developer** and **AWS Architect** specializing in high-performance, real-time applications[cite: 1]. I bridge the gap between complex backend systems and high-end interactive user interfaces[cite: 1].
 
-### **Frontend Development**
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+&nbsp;&nbsp;&nbsp;🏢 &nbsp;**Lead Engineer** at **Codes Thinker**, driving enterprise digital solutions[cite: 1]\
+&nbsp;&nbsp;&nbsp;🏗️ &nbsp;Expert in **AWS Cloud Architecture** and **Scalable Infrastructure**[cite: 1]\
+&nbsp;&nbsp;&nbsp;⚛️ &nbsp;Deeply focused on **Next.js 14**, **TypeScript**, and **MERN Stack**[cite: 1]\
+&nbsp;&nbsp;&nbsp;🎨 &nbsp;Specialist in **Glassmorphism**, **Bento Layouts**, and **GSAP Animations**[cite: 1]\
+&nbsp;&nbsp;&nbsp;💬 &nbsp;Ask me about **System Design, AWS, React, or Business Scaling**[cite: 1]\
+&nbsp;&nbsp;&nbsp;🎯 &nbsp;Goal: Engineering products that power global growth[cite: 1]
 
-### **Backend & Infrastructure**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+<br clear="both"/>
 
-### **Development Tools & Practices**
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
----
+<br/>
 
-## 🏗️ Project Portfolio
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="32"> &nbsp;Tech Arsenal
 
-| Project | Description | Technologies | Key Achievements |
-|---------|-------------|--------------|------------------|
-| **Akoya Web Platform** | Luxury e-commerce interface with advanced animations | React, Framer Motion, Tailwind CSS | • 40% improvement in interaction smoothness<br>• SEO score increased to 95+ |
-| **Enterprise AI Chatbot** | Real-time conversational AI with streaming responses | Next.js 14, OpenAI API, Node.js | • Reduced response latency by 60%<br>• Implemented context-aware memory |
-| **Administrative Dashboard** | Comprehensive data visualization and management system | React, Recharts, Context API | • Built custom charting library<br>• Implemented role-based access control |
-| **Weather Intelligence Platform** | Location-based forecasting with dynamic visualization | Vanilla JS, Weather APIs, SVG | • 90% Lighthouse performance score<br>• Offline-first implementation |
-| **Charity Management System** | Donation tracking and campaign management platform | React, Material-UI, Node.js | • Secure payment simulation<br>• Real-time donor analytics |
+<div align="center">
 
----
+### 🏗️ Backend & Infrastructure
+<br/>
 
-## 📈 Development Metrics
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sadiqhussain988&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&hide_title=false&line_height=24" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadiqhussain988&layout=compact&theme=github_dark&hide_border=true&langs_count=6&hide_title=false" width="45%" />
-</p>
+### ⚛️ Modern Frontend
+<br/>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sadiqhussain988&theme=github-dark&area=true&hide_border=true&custom_title=Contribution%20Activity&area_color=2D7DDB&color=8B949E&line=2D7DDB&point=FFFFFF" width="90%" />
-</p>
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0EA5E9?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
----
+### 🛠️ Developer Tools & Efficiency
+<br/>
 
-## 🧭 Engineering Philosophy
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
+
+## 🚀 Enterprise Solutions
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%">
+
+### 🌐 SadiqTech Platform
+<p>Architected high-performance personal ecosystem showcasing enterprise grade modules[cite: 1].</p>
+<p><code>Next.js</code> <code>AWS</code> <code>GSAP</code></p>
+<a href="https://www.sadiqtech.dev/">
+  <img src="https://img.shields.io/badge/LIVE_DEMO-2D7DDB?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+</td>
+<td width="50%">
+
+### 💬 AI Enterprise Chatbot
+<p>Real-time conversational AI with context-aware memory and sub-second latency[cite: 1].</p>
+<p><code>Next.js 14</code> <code>OpenAI</code> <code>Node.js</code></p>
+<a href="https://fa-ai-chatbot.vercel.app/">
+  <img src="https://img.shields.io/badge/LIVE_DEMO-06B6D4?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 📊 Analytics Engine
+<p>Complex data visualization dashboard with real-time tracking and role-based access[cite: 1].</p>
+<p><code>React</code> <code>Recharts</code> <code>Tailwind</code></p>
+<a href="https://fa-dashboard.vercel.app/">
+  <img src="https://img.shields.io/badge/LIVE_DEMO-10B981?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+</td>
+<td width="50%">
+
+### 🛍️ Akoya Luxury
+<p>Modern luxury e-commerce with advanced bento-grid layouts and interaction design[cite: 1].</p>
+<p><code>React</code> <code>Framer Motion</code> <code>Tailwind</code></p>
+<a href="https://fa-akoya.vercel.app/">
+  <img src="https://img.shields.io/badge/LIVE_DEMO-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=sadiqhussain988&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=2D7DDB&icon_color=06B6D4&text_color=C9D1D9&ring_color=10B981" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadiqhussain988&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0D1117&title_color=2D7DDB&text_color=C9D1D9" width="45%" />
+
+  <br/><br/>
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sadiqhussain988&theme=react-dark&hide_border=true&area=true&custom_title=Architectural%20Contributions&bg_color=0D1117&color=2D7DDB&line=06B6D4&point=10B981&area_color=2D7DDB20" width="95%" />
+
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
+
+## 🏆 Quick Stats
+
+<div align="center">
+
+![Total Projects](https://img.shields.io/badge/Projects-30+-2D7DDB?style=for-the-badge)
+![Deployments](https://img.shields.io/badge/Deployments-25+-06B6D4?style=for-the-badge)
+![Cloud Architecture](https://img.shields.io/badge/Cloud-AWS_Architect-10B981?style=for-the-badge)
+![Code Hours](https://img.shields.io/badge/Code_Hours-5000+-2D7DDB?style=for-the-badge)
+
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
+
+## 💭 Engineering Philosophy
+
+<div align="center">
 
 ```typescript
-interface EngineeringPrinciples {
-  codeQuality: "Clean, maintainable, and well-documented";
-  architecture: "Scalable, modular, and testable";
-  collaboration: "Cross-functional teamwork and knowledge sharing";
-  delivery: "Iterative development with measurable outcomes";
-  innovation: "Balancing proven patterns with emerging technologies";
-}
-
-const developmentApproach: EngineeringPrinciples = {
-  codeQuality: "Adherence to SOLID principles and comprehensive testing",
-  architecture: "Component-driven design with clear separation of concerns",
-  collaboration: "Active participation in code reviews and architectural discussions",
-  delivery: "Agile methodologies with continuous integration/deployment",
-  innovation: "Strategic adoption of technologies that provide tangible value"
+const sadiq = {
+  role: "Senior Full Stack Developer",
+  company: "Codes Thinker",
+  specialization: ["AWS Architecture", "UI Engineering", "Scalable Systems"],
+  philosophy: "Building systems that scale as fast as your ideas",
+  motto: "Engineering precision, delivered globally"
 };
